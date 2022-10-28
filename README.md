@@ -1,12 +1,12 @@
 
 # Messenger to Discord
 
-Interact with Messenger directly from a discord.
+Interact with Facebook Messenger directly from a discord.
 
 
 ##
 
-You will need to create an `appstate.json` for login - [follow this]('https://www.youtube.com/watch?v=y9_yd5a3scM')
+You will need to create an `appstate.json` for login - follow [this]('https://www.youtube.com/watch?v=y9_yd5a3scM')
 
 ## Environment Variables
 
